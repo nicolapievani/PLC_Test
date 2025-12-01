@@ -1,5 +1,5 @@
 # Cartelle temporanee generate da TIA Portal
-IM/
+/IM/
 
 # File di log e informazioni utente
 *.log
@@ -21,9 +21,9 @@ System/~PEData.*
 *.db-journal
 
 # Cartelle di output compilato (se presenti)
-Output/
-Build/
-Dist/
+/Output/
+/Build/
+/Dist/
 
 # File di configurazione locali (non necessari al progetto condiviso)
 *.local
