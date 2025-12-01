@@ -1,0 +1,29 @@
+# Cartelle temporanee generate da TIA Portal
+IM/
+
+# File di log e informazioni utente
+*.log
+*.info
+
+# File temporanei di sistema TIA Portal
+System/~PEData.*
+
+# File di backup e cache
+*.bak
+*.tmp
+*.swp
+
+# File di compilazione intermedi
+*.id
+*.plf
+
+# File di database temporanei
+*.db-journal
+
+# Cartelle di output compilato (se presenti)
+Output/
+Build/
+Dist/
+
+# File di configurazione locali (non necessari al progetto condiviso)
+*.local
